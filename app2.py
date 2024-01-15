@@ -5,7 +5,7 @@ from PIL import Image
 
 st.set_page_config(page_title='PopStatExplore')
 st.header("Let's Explore Statistic Data!")
-st.header("Insights from the Numbers: A Statistical Adventure!")
+#st.header("Insights from the Numbers: A Statistical Adventure!")
 #st.subheader('Insights from the Numbers: A Statistical Adventure')
 st.write('This data include from 2010 until 2019. You can fill up the form to see the data related to you!')
 
