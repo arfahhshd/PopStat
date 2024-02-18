@@ -59,9 +59,9 @@ ethnic=(
     #"Malaysian citizens",
     #"Non-Malaysian citizens")
 
-sex = st.selectbox("What is your gender?", options=sex, index=None)
-age = st.selectbox("What is your Age?", options=age, index=None)
-ethnic = st.selectbox("What is your Ethnic?", options=ethnic, index=None)
+sex = st.selectbox("Select gender?", options=sex, index=None)
+age = st.selectbox("Select Age?", options=age, index=None)
+ethnic = st.selectbox("Select Ethnic?", options=ethnic, index=None)
 #citizen= st.selectbox ("Are you a Malaysian citizen?", citizen)
 year = st.slider("Years",2010, 2019, 2011)
 
